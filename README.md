@@ -1,6 +1,6 @@
 # quarto-site-example
 
-And example quarto website for a curriculum.
+And example quarto website for curricula.
 
 See the quarto docs for details on authoring sites with quarto: 
 <https://quarto.org/docs/guide/>
