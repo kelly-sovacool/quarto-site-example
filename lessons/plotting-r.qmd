@@ -1,0 +1,13 @@
+---
+title: "Plotting in R"
+---
+
+How to make a plot
+
+```{r ggplot}
+library(ggplot2)
+ggplot(mtcars, aes(factor(cyl), mpg)) +
+  geom_boxplot()
+```
+
+If this works, it's proof that the github actions workflow (`.github/workflows/quarto-publish.yml`) activated the conda environment (`environment.yml`).

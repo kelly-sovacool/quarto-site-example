@@ -1,0 +1,7 @@
+name: swc
+channels:
+  - r
+  - conda-forge
+  - defaults
+depenencies:
+  - r-tidyverse
