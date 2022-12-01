@@ -3,5 +3,5 @@ channels:
   - r
   - conda-forge
   - defaults
-depenencies:
+dependencies:
   - r-tidyverse
