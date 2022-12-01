@@ -1,0 +1,23 @@
+---
+title: "Introduction to R"
+---
+
+```{r hello}
+print("Hello, world!")
+```
+
+::: {.callout-note icon="false"}
+## Exercise 1
+
+An exercise / practice problem
+
+:::: {.callout-tip collapse="true" icon="false" appearance="simple"}
+### Answer
+```{r}
+print("this could be the answer to the exercise")
+```
+::::
+:::
+
+
+Quarto docs on callout blocks: <https://quarto.org/docs/authoring/callouts.html>

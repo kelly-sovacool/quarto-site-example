@@ -1,0 +1,11 @@
+{
+  "index.qmd": {
+    "index.html": "ff8da7ae"
+  },
+  "about.qmd": {
+    "about.html": "b4aeabb5"
+  },
+  "lessons/intro-r.qmd": {
+    "intro-r.html": "f47a63ac"
+  }
+}

@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "example website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - sidebar:lessons
+
+  sidebar:
+    - id: lessons
+      title: Lessons
+      style: docked
+      collapse-level: 2
+      contents:
+        - lessons/intro-r.qmd
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css # define custom css here
+    toc: true
+    code-fold: show
+    code-tools: true
