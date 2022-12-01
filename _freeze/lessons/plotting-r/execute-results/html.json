@@ -1,0 +1,16 @@
+{
+  "hash": "f61a8c193d2d181d16d1a255fb96e5cc",
+  "result": {
+    "markdown": "---\ntitle: \"Plotting in R\"\n---\n\n\nHow to make a plot\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(ggplot2)\nggplot(mtcars, aes(factor(cyl), mpg)) +\n  geom_boxplot()\n```\n\n::: {.cell-output-display}\n![](plotting-r_files/figure-html/ggplot-1.png){width=672}\n:::\n:::\n\n\nIf this works, it's proof that the github actions workflow (`.github/workflows/quarto-publish.yml`) activated the conda environment (`environment.yml`).",
+    "supporting": [
+      "plotting-r_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

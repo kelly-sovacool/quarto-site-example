@@ -18,6 +18,8 @@ website:
       contents:
         - lessons/intro-r.qmd
 
+execute:
+  freeze: auto
 
 format:
   html:

@@ -1,0 +1,14 @@
+{
+  "hash": "d55946e6b5a1da04b2bd7ae703c829ed",
+  "result": {
+    "markdown": "---\ntitle: \"Introduction to R\"\n---\n\n::: {.cell}\n\n```{.r .cell-code}\nprint(\"Hello, world!\")\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"Hello, world!\"\n```\n:::\n:::\n\n\n::: {.callout-note icon=\"false\"}\n## Exercise 1\n\nAn exercise / practice problem\n\n:::: {.callout-tip collapse=\"true\" icon=\"false\" appearance=\"simple\"}\n### Answer\n\n::: {.cell}\n\n```{.r .cell-code}\nprint(\"this could be the answer to the exercise\")\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"this could be the answer to the exercise\"\n```\n:::\n:::\n\n::::\n:::\n\n\nQuarto docs on callout blocks: <https://quarto.org/docs/authoring/callouts.html>\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
