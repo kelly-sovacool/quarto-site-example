@@ -1,1 +1,1 @@
-Sitemap: https://kelly-sovacool.github.io/quarto-site-example/sitemap.xml
+Sitemap: https://github.com/kelly-sovacool/quarto-site-example/sitemap.xml

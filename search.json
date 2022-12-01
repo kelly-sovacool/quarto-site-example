@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "example website",
+    "objectID": "lessons/intro-r.html",
+    "href": "lessons/intro-r.html",
+    "title": "Introduction to R",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Code\nprint(\"Hello, world!\")\n\n\n[1] \"Hello, world!\"\n\n\n\n\n\n\n\n\nExercise 1\n\n\n\nAn exercise / practice problem\n\n\n\n\n\n\nAnswer\n\n\n\n\n\n\n\nCode\nprint(\"this could be the answer to the exercise\")\n\n\n[1] \"this could be the answer to the exercise\"\n\n\n\n\n\n\n\nQuarto docs on callout blocks: https://quarto.org/docs/authoring/callouts.html"
+  },
+  {
+    "objectID": "lessons/plotting-r.html",
+    "href": "lessons/plotting-r.html",
+    "title": "Plotting in R",
+    "section": "",
+    "text": "How to make a plot\n\n\nCode\nlibrary(ggplot2)\nggplot(mtcars, aes(factor(cyl), mpg)) +\n  geom_boxplot()\n\n\n\n\n\nIf this works, it’s proof that the github actions workflow (.github/workflows/quarto-publish.yml) activated the conda environment (environment.yml)."
   },
   {
     "objectID": "about.html",
@@ -14,10 +21,10 @@
     "text": "About this site"
   },
   {
-    "objectID": "lessons/intro-r.html",
-    "href": "lessons/intro-r.html",
-    "title": "Introduction to R",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "example website",
     "section": "",
-    "text": "Code\nprint(\"Hello, world!\")\n\n\n[1] \"Hello, world!\"\n\n\n\n\n\n\n\n\nExercise 1\n\n\n\nAn exercise / practice problem\n\n\n\n\n\n\nAnswer\n\n\n\n\n\n\n\nCode\nprint(\"this could be the answer to the exercise\")\n\n\n[1] \"this could be the answer to the exercise\"\n\n\n\n\n\n\n\nQuarto docs on callout blocks: https://quarto.org/docs/authoring/callouts.html"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]

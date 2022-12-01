@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kelly-sovacool.github.io/quarto-site-example/index.html</loc>
-    <lastmod>2022-12-01T19:25:05.043Z</lastmod>
+    <loc>https://github.com/kelly-sovacool/quarto-site-example/lessons/intro-r.html</loc>
+    <lastmod>2022-12-01T19:43:30.125Z</lastmod>
   </url>
   <url>
-    <loc>https://kelly-sovacool.github.io/quarto-site-example/about.html</loc>
-    <lastmod>2022-12-01T19:25:05.324Z</lastmod>
+    <loc>https://github.com/kelly-sovacool/quarto-site-example/lessons/plotting-r.html</loc>
+    <lastmod>2022-12-01T19:43:32.597Z</lastmod>
   </url>
   <url>
-    <loc>https://kelly-sovacool.github.io/quarto-site-example/lessons/intro-r.html</loc>
-    <lastmod>2022-12-01T19:25:07.022Z</lastmod>
+    <loc>https://github.com/kelly-sovacool/quarto-site-example/about.html</loc>
+    <lastmod>2022-12-01T19:43:32.921Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/kelly-sovacool/quarto-site-example/index.html</loc>
+    <lastmod>2022-12-01T19:43:33.249Z</lastmod>
   </url>
 </urlset>
