@@ -1,2 +1,11 @@
 /* css styles */
 /* maybe we can create custom callout blocks here for exercises? */
+
+
+/* custom code cell output from  https://github.com/SchlossLab/just-enough-python/blob/main/custom.css */
+.cell-output.cell-output-stdout {
+    /*border: 1px solid #eef1f3;
+    border-radius: 5px;  */
+    border-left: 5px solid #7FA9D7;
+    padding-left: 7.5px;
+}
